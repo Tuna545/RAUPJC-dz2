@@ -1,0 +1,6 @@
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\bin\Debug\Raupjc-dz2-zad3.exe.config
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\bin\Debug\Raupjc-dz2-zad3.exe
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\bin\Debug\Raupjc-dz2-zad3.pdb
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\obj\Debug\Raupjc-dz2-zad3.csprojResolveAssemblyReference.cache
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\obj\Debug\Raupjc-dz2-zad3.exe
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc-dz2-zad3\Raupjc-dz2-zad3\obj\Debug\Raupjc-dz2-zad3.pdb
