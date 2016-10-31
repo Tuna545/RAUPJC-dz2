@@ -1,5 +1,6 @@
 # RAUPJC-dz2
-   2. Domaca zadaca //ne zeli ispisat 2:)
+   2. Domaca zadaca //ne zeli ispisat 2 :)
+   Fali 5. zadatak
 
 #6. Zadatak Odgovori
 
