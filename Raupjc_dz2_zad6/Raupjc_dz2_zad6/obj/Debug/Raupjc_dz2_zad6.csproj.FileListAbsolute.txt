@@ -1,0 +1,5 @@
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc_dz2_zad6\Raupjc_dz2_zad6\bin\Debug\Raupjc_dz2_zad6.exe.config
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc_dz2_zad6\Raupjc_dz2_zad6\bin\Debug\Raupjc_dz2_zad6.exe
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc_dz2_zad6\Raupjc_dz2_zad6\bin\Debug\Raupjc_dz2_zad6.pdb
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc_dz2_zad6\Raupjc_dz2_zad6\obj\Debug\Raupjc_dz2_zad6.exe
+c:\users\tuna2\documents\visual studio 2015\Projects\Raupjc_dz2_zad6\Raupjc_dz2_zad6\obj\Debug\Raupjc_dz2_zad6.pdb
