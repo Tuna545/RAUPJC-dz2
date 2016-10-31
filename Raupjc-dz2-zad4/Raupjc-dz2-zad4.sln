@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raupjc-dz2-zad4", "Raupjc-dz2-zad4\Raupjc-dz2-zad4.csproj", "{0DAF580A-E374-4ABE-A3C0-6218151F2B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raupjc-dz2-zad5", "Raupjc-dz2-zad5\Raupjc-dz2-zad5.csproj", "{11E94EE7-F298-4C02-85E1-8E7DC48C1066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAF580A-E374-4ABE-A3C0-6218151F2B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAF580A-E374-4ABE-A3C0-6218151F2B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAF580A-E374-4ABE-A3C0-6218151F2B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAF580A-E374-4ABE-A3C0-6218151F2B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E94EE7-F298-4C02-85E1-8E7DC48C1066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E94EE7-F298-4C02-85E1-8E7DC48C1066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E94EE7-F298-4C02-85E1-8E7DC48C1066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E94EE7-F298-4C02-85E1-8E7DC48C1066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
